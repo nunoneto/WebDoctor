@@ -15,7 +15,7 @@
         <ImageView
             android:id="@+id/thumbnail"
             android:layout_width="0dp"
-            android:layout_height="200dp"
+            android:layout_height="100dp"
             android:scaleType="centerCrop"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -89,9 +89,10 @@
             tools:text="15 minutes" />
 
         <com.google.android.material.chip.ChipGroup
+            android:id="@+id/cuisine_tags"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="8dp"
+            android:layout_margin="8dp"
             android:maxHeight="100dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
