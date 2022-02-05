@@ -3,5 +3,6 @@
     <string name="hint_recipe_search">search for a recipe</string>
     <string name="recipe_search">Search For Recipes</string>
     <string name="by_author">by %1$s</string>
-    <string name="calorie_count">%1$d calories</string>
+    <string name="calorie_count">%.1f%n calories</string>
+    <string name="time">%.0f%n minutes</string>
 </resources>
