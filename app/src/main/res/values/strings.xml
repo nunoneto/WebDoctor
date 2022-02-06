@@ -3,7 +3,7 @@
     <string name="hint_recipe_search">search for a recipe</string>
     <string name="recipe_search">Search For Recipes</string>
     <string name="by_author">by %1$s</string>
-    <string name="calorie_count">%.1f%n calories</string>
-    <string name="time">%.0f%n minutes</string>
+    <string name="calorie_count">%.1f calories</string>
+    <string name="time">%.0f minutes</string>
     <string name="error_msg">Sorry, something went wrong..\nPlease try again later</string>
 </resources>
